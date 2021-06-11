@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://rev:Clagett1!@cluster0.zifio.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}

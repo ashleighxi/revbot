@@ -1,0 +1,43 @@
+[
+  {
+    "option": "rev",
+    "answer": ["rev"],
+    "success": ["You're lucky I'm feeling merciful, peasant. Here, take money"],
+    "fail": ["How dare you approach me, Heretic! I BANISH THEE"] 
+  },
+  {
+    "option": "ghost",
+    "answer": ["ghost"],
+    "success": ["You've managed to spook the ghost and they gave you money - Wow, you must be ugly."],
+    "fail": ["DAMN YOU JUST GOT SPOOKED LMFAO"]  
+  },
+  {
+    "option": "grave",
+    "answer": ["grave"],
+    "success": ["Reaching into the coffin, you find money"]
+  },
+  {
+    "option": "black cat",
+    "answer": ["black cat"],
+    "success": ["I guess fortune must be on your side, because the black cat has given you money"],
+    "fail": ["black cat said \"nah fam\""]  
+  },
+  {
+    "option": "bones",
+    "answer": ["bones"],
+    "success": ["In the pile of bones, you find money"]
+    
+  },
+  {
+    "option": "dark heart",
+    "answer": ["dark heart"],
+    "success": ["As you wish upon the Dark Heart, your pockets suddenly feel heavier. You've received money"]
+    
+  },
+  {
+    "option": "witch",
+    "answer": ["witch"],
+    "success": ["HAHAHA your fear amuses me human. Here, take money"]
+    
+  }
+]
